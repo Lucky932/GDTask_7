@@ -1,0 +1,15 @@
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\obj\Debug\net7.0\GDTask_7.csproj.AssemblyReference.cache
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\obj\Debug\net7.0\GDTask_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\obj\Debug\net7.0\GDTask_7.AssemblyInfoInputs.cache
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\obj\Debug\net7.0\GDTask_7.AssemblyInfo.cs
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\obj\Debug\net7.0\GDTask_7.csproj.CoreCompileInputs.cache
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\bin\Debug\net7.0\GDTask_7.exe
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\bin\Debug\net7.0\GDTask_7.deps.json
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\bin\Debug\net7.0\GDTask_7.runtimeconfig.json
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\bin\Debug\net7.0\GDTask_7.dll
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\bin\Debug\net7.0\GDTask_7.pdb
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\obj\Debug\net7.0\GDTask_7.dll
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\obj\Debug\net7.0\refint\GDTask_7.dll
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\obj\Debug\net7.0\GDTask_7.pdb
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\obj\Debug\net7.0\GDTask_7.genruntimeconfig.cache
+C:\programs\github_rep\GDTask_7\GDTask_7\GDTask_7\obj\Debug\net7.0\ref\GDTask_7.dll
